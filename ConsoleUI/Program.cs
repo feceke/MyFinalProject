@@ -9,10 +9,11 @@ namespace ConsoleUI
     {
         static void Main(string[] args)
         {
-            ProductTest();
+            //ProductTest();
             //Product test için Product Manager'da GetProductDetails sistem bakımı saat 17 ye ayarlı.
 
             //CategoryTest();
+            
 
         }
 
