@@ -22,6 +22,6 @@ namespace Business.Constants
         public static string PasswordError="Parola Hatası";
         public static string SuccessfulLogin="Giriş Başarılı";
         public static string UserAlreadyExists="Kullanıcı İsmi mevcut";
-        public static string AccessTokenCreated="Giriş jetonu üretildi";
+        public static string AccessTokenCreated="Token üretildi";
     }
 }
